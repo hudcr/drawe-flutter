@@ -23,7 +23,7 @@
     }
   ],
   "hosting": {
-    "public": "drawe-game/dist",
+    "public": "build/web",
     "ignore": [
       "firebase.json",
       "**/.*",
